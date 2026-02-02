@@ -6,6 +6,7 @@ function App() {
      <div>
         <h3>todolist</h3>
         <p>添加todo</p>
+        <p>删除todo</p>
      </div>
   );
 }
